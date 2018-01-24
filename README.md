@@ -93,3 +93,4 @@ anot tain eat', 'nee ene ate ite tent tiet ent ine ene ete ene ate'];
 * Think logically about how to move through the sentence array, and through each sentence character-by-character.
 
 * Let user input be the "driving force" of your program.#Typewriter
+# Typewriter
