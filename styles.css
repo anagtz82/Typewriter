@@ -25,3 +25,11 @@ body {
     height: 15px;
     background-color: yellow;
 }
+
+.highlight {
+    background-color: yellow;
+}
+
+#highlightBlock {
+    background-color: yellow;
+}
